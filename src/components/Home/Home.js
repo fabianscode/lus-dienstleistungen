@@ -8,6 +8,8 @@ import Footer from "../Footer/Footer";
 const styles = {
     root: {
         backgroundColor: "#1966d1",
+        overflowX: "hidden",
+        width: "100%"
     },
 };
 

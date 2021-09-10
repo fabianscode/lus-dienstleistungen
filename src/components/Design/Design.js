@@ -1,9 +1,7 @@
 import React from 'react';
-import PropTypes from 'prop-types';
-import styles from './Design.module.css';
 
 const Design = () => (
-  <div className={styles.Design}>
+  <div>
     Design Component
   </div>
 );

@@ -19,6 +19,9 @@ const useStyles = makeStyles({
         fontSize: 20,
         alignItems: "center"
     },
+    linkBox: {
+
+    },
     links: {
         marginLeft: 12,
         marginRight: 12,

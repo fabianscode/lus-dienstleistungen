@@ -2,7 +2,6 @@ import React from 'react';
 import {makeStyles} from '@material-ui/core/styles';
 import PrinterIcon from "../../img/printer.png";
 import {Grid} from "@material-ui/core";
-import DesignIcon from "../../img/design-icon.png";
 
 
 const useStyles = makeStyles({
@@ -74,9 +73,6 @@ const useStyles = makeStyles({
             background: "#b2c8d233",
         },
     },
-    image: {
-
-    }
 });
 
 export default function ExploreTeamCard() {
