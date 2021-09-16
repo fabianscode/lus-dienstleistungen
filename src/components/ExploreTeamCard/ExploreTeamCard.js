@@ -92,7 +92,7 @@ export default function ExploreTeamCard() {
                         <a className={classes.teamButton} href="/team">
                             Das Team
                         </a>
-                        <a className={classes.joinButton} href="/team">
+                        <a className={classes.joinButton} href="/join">
                             Tritt dem Team bei
                         </a>
                     </div>

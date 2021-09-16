@@ -1,8 +1,7 @@
 import React from 'react';
-import {Box, Container} from '@material-ui/core';
+import {Container} from '@material-ui/core';
 import AppBar from "../AppBar/AppBar";
 import Footer from "../Footer/Footer";
-import PrintingContent from "../PrintingContent/PrintingContent";
 
 const styles = {
     root: {
@@ -12,20 +11,18 @@ const styles = {
     },
 };
 
-const Printing = () => (
+const Join = () => (
     <div style={styles.root}>
         <AppBar/>
         <Container fixed>
-            <Box height={140}/>
-            <PrintingContent/>
-            <Box height={140}/>
+
         </Container>
         <Footer/>
     </div>
 );
 
-Printing.propTypes = {};
+Join.propTypes = {};
 
-Printing.defaultProps = {};
+Join.defaultProps = {};
 
-export default Printing;
+export default Join;

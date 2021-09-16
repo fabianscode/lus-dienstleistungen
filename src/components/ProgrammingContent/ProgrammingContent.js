@@ -2,10 +2,7 @@ import React from 'react';
 import {makeStyles} from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
-import DesignOptionCard from "../DesignOptionCard/DesignOptionCard";
 import {Box, Grid} from "@material-ui/core";
-import ProgrammingOptionCard from "../ProgrammingOptionCard/ProgrammingOptionCard";
-import PrintingOptionCard from "../PrintingOptionCard/PrintingOptionCard";
 
 const useStyles = makeStyles({
     root: {
@@ -22,21 +19,16 @@ const useStyles = makeStyles({
     },
 });
 
-export default function OptionsCard() {
+export default function ProgrammingContent() {
     const classes = useStyles();
 
     return (
         <Card className={classes.root} variant="outlined">
             <CardContent>
                 <h2 className={classes.title} color="textSecondary">
-                    Unsere Dienstleistungen
+                    Programmieren
                 </h2>
                 <Box height={30}/>
-                <Grid container styles={classes.optionsContainer} justifyContent="space-evenly" alignItems="center">
-                    <ProgrammingOptionCard/>
-                    <PrintingOptionCard/>
-                    <DesignOptionCard/>
-                </Grid>
             </CardContent>
         </Card>
     );
