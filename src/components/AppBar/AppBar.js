@@ -8,7 +8,7 @@ const useStyles = makeStyles({
         padding: 1,
         boxShadow: "0 0 40px 0px rgba(0,0,0,0.5)",
         position: "sticky",
-        top: 0
+        top: 0,
     },
     innerContainer: {
         marginLeft: 20,
