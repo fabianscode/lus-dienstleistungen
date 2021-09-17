@@ -4,7 +4,7 @@ import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import {Box, Divider, Grid} from "@material-ui/core";
 import AndroidIcon from "../../img/android-icon.png";
-import ServerIcon from "../../img/kisspng-kubernetes-docker-google-cloud-platform-logo-lxc-container-5ad44c5edfedf4.7230997615238626229172.png";
+import ServerIcon from "../../img/kubernetes-icon.png";
 import AppsIcon from "../../img/code-icon.ico";
 
 const useStyles = makeStyles({
