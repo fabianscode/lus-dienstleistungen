@@ -1,12 +1,28 @@
 {
-  "main.css": "static/css/main.abbb9e94.css",
-  "main.css.map": "static/css/main.abbb9e94.css.map",
-  "main.js": "static/js/main.c89bafe5.js",
-  "main.js.map": "static/js/main.c89bafe5.js.map",
-  "static/js/0.b54b44a5.chunk.js": "static/js/0.b54b44a5.chunk.js",
-  "static/js/0.b54b44a5.chunk.js.map": "static/js/0.b54b44a5.chunk.js.map",
-  "static/media/code-icon.ico": "static/media/code-icon.1070ed0f.ico",
-  "static/media/design-icon.png": "static/media/design-icon.9ccf034a.png",
-  "static/media/printer.png": "static/media/printer.d7eda5dc.png",
-  "static/media/printing-icon.png": "static/media/printing-icon.76b17beb.png"
+  "files": {
+    "main.css": "/lus-dienstleistungen/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lus-dienstleistungen/static/js/main.35f5c31f.chunk.js",
+    "main.js.map": "/lus-dienstleistungen/static/js/main.35f5c31f.chunk.js.map",
+    "runtime-main.js": "/lus-dienstleistungen/static/js/runtime-main.1c8be6f3.js",
+    "runtime-main.js.map": "/lus-dienstleistungen/static/js/runtime-main.1c8be6f3.js.map",
+    "static/js/2.0354d370.chunk.js": "/lus-dienstleistungen/static/js/2.0354d370.chunk.js",
+    "static/js/2.0354d370.chunk.js.map": "/lus-dienstleistungen/static/js/2.0354d370.chunk.js.map",
+    "static/js/3.aee889ba.chunk.js": "/lus-dienstleistungen/static/js/3.aee889ba.chunk.js",
+    "static/js/3.aee889ba.chunk.js.map": "/lus-dienstleistungen/static/js/3.aee889ba.chunk.js.map",
+    "index.html": "/lus-dienstleistungen/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/lus-dienstleistungen/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0354d370.chunk.js.LICENSE.txt": "/lus-dienstleistungen/static/js/2.0354d370.chunk.js.LICENSE.txt",
+    "static/media/android-icon.6a36f152.png": "/lus-dienstleistungen/static/media/android-icon.6a36f152.png",
+    "static/media/code-icon.daf25649.ico": "/lus-dienstleistungen/static/media/code-icon.daf25649.ico",
+    "static/media/design-icon.dc27f2cb.png": "/lus-dienstleistungen/static/media/design-icon.dc27f2cb.png",
+    "static/media/kisspng-kubernetes-docker-google-cloud-platform-logo-lxc-container-5ad44c5edfedf4.7230997615238626229172.69ea2ace.png": "/lus-dienstleistungen/static/media/kisspng-kubernetes-docker-google-cloud-platform-logo-lxc-container-5ad44c5edfedf4.7230997615238626229172.69ea2ace.png",
+    "static/media/printer.9be89eae.png": "/lus-dienstleistungen/static/media/printer.9be89eae.png",
+    "static/media/printing-icon.64bd2722.png": "/lus-dienstleistungen/static/media/printing-icon.64bd2722.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c8be6f3.js",
+    "static/js/2.0354d370.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.35f5c31f.chunk.js"
+  ]
 }
