@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lus-dienstleistungen/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/lus-dienstleistungen/static/js/main.45885e43.chunk.js",
-    "main.js.map": "/lus-dienstleistungen/static/js/main.45885e43.chunk.js.map",
+    "main.js": "/lus-dienstleistungen/static/js/main.3e275dbd.chunk.js",
+    "main.js.map": "/lus-dienstleistungen/static/js/main.3e275dbd.chunk.js.map",
     "runtime-main.js": "/lus-dienstleistungen/static/js/runtime-main.1c8be6f3.js",
     "runtime-main.js.map": "/lus-dienstleistungen/static/js/runtime-main.1c8be6f3.js.map",
     "static/js/2.0354d370.chunk.js": "/lus-dienstleistungen/static/js/2.0354d370.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.1c8be6f3.js",
     "static/js/2.0354d370.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.45885e43.chunk.js"
+    "static/js/main.3e275dbd.chunk.js"
   ]
 }
