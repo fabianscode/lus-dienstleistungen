@@ -48,7 +48,7 @@ export default function AppBar() {
                 <Box width={50}/>
                 <div>
                     <a className={classes.links} href="/programming">
-                        Programmieren3
+                        Programmieren
                     </a>
                     <a className={classes.links} href="/printing">
                         3D-Druck

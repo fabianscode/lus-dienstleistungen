@@ -13,7 +13,7 @@ import Join from "./components/Join/Join";
 
 export default function App() {
     return (
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router>
             <div>
                 <Switch>
                     <Route path="/programming" component={Programming} />
